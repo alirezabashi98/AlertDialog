@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test AlertDialog</string>
+    <string name="alertdialog_1">AlertDialog 1</string>
+    <string name="alertdialog_2">AlertDialog 2</string>
+    <string name="alertdialog_3">AlertDialog 3</string>
+    <string name="username">UserName</string>
+    <string name="passowrd">Passowrd</string>
+
+    <string-array name="data_name">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+</resources>
